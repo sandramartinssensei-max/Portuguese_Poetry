@@ -7,9 +7,9 @@ Abaixo podes navegar e interagir diretamente com os painéis construídos para e
 
 | Painel / Dashboard | Descrição & Foco Analítico | Acesso Direto |
 | :--- | :--- | :---: |
-| **01. Panorama por Género e Temas** | Análise comparativa da distribuição de temas principais cruzados com o género do autor. | [🔗 **Ver Painel 1**](https://public.tableau.com/views/PoesiaPortuguesa/Gnero?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) |
-| **02. Matriz Concelho vs. Tema** | *Heatmap* de distribuição geográfica para identificar a densidade temática por concelho de origem. | [🔗 **Ver Painel 2**](https://public.tableau.com/authoring/DataSet_poesia_portuguesa/Planilha1/Painel%201#4) |
-| **03. Métricas Avançadas & KPIs** | Visão executiva com indicadores-chave (KPIs), volumetria global e destaques das métricas do corpus. | [🔗 **Ver Painel 3**](LINK_DO_TEU_PAINEL_3_AQUI) |
+| **01. Painel Género** | Análise comparativa da distribuição de temas principais cruzados com o género do autor. | [🔗 **Ver Painel 1**](https://public.tableau.com/views/PoesiaPortuguesa/Gnero?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) |
+| **02. Painel Tema** | *Heatmap* de distribuição geográfica para identificar a densidade temática por concelho de origem. | [🔗 **Ver Painel 2**](https://public.tableau.com/authoring/DataSet_poesia_portuguesa/Planilha1/Painel%201#4) |
+| **03. Painel Concelho** | Visão executiva com indicadores-chave (KPIs), volumetria global e destaques das métricas do corpus. | [🔗 **Ver Painel 3**](LINK_DO_TEU_PAINEL_3_AQUI) |
 
 ---
 
