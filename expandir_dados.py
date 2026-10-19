@@ -19,7 +19,7 @@ for i in range(n_linhas_alvo):
     base_row = df_base.sample(n=1).iloc[0]
     
     id_poema_novo = 200 + i
-    ano_pub_novo = np.randint(1960, 2025)
+    ano_pub_novo = np.random.randint(1960, 2025) # Correção aplicada aqui (np.random.randint)
     tema_novo = np.random.choice(temas)
     kw_novo = f"{np.random.choice(keywords_pool)}, {np.random.choice(keywords_pool)}"
     
