@@ -1,7 +1,7 @@
 # Portuguese_Poetry
 This repository explores a structured corpus of Portuguese poetry by integrating author demographics and editorial metadata with text processing and exploratory data analysis. The objective is to examine cultural trends, gender representation in published works, and thematic evolution across decades in Portugal.
 ## Análise Exploratória
-## 🎨 Painéis Interativos (Tableau Public)
+## Painéis Interativos (Tableau Public)
 
 Abaixo podes navegar e interagir diretamente com os painéis construídos para explorar os diferentes níveis da análise:
 | Painel / Dashboard | Descrição & Foco Analítico | Acesso Direto |
