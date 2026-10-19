@@ -1,10 +1,10 @@
 import pandas as pd
 import numpy as np
 
-# Carregar o dataset base que criaste
+# Carregar o dataset
 df_base = pd.read_csv('poesia_contemporanea_portugal.csv')
 
-# Vamos usar uma técnica de expansão controlada para gerar 500 linhas simuladas e realistas
+# Técnica de expansão controlada para gerar 500 linhas 
 np.random.seed(42)
 n_linhas_alvo = 500
 
@@ -15,7 +15,7 @@ keywords_pool = ['ferro', 'cinza', 'casa', 'mar', 'noite', 'tempo', 'silêncio',
 dados_expandidos = []
 
 for i in range(n_linhas_alvo):
-    # Escolher uma linha base aleatoriamente para manter a consistência do autor
+    # Linha base aleatoria para manter a consistência do autor
     base_row = df_base.sample(n=1).iloc[0]
     
     id_poema_novo = 200 + i
