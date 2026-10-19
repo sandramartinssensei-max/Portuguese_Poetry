@@ -1,4 +1,4 @@
-# Portuguese_Poetry
+# Poesia portuguesa
 Visão Geral do Projeto
 Este repositório explora um *corpus* estruturado de poesia portuguesa, integrando dados demográficos de autores, metadados editoriais, processamento de texto e Análise Exploratória de Dados. 
 
